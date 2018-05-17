@@ -5,8 +5,7 @@
       "package": "com.sugarnaoming.mapsample",
       "config": {
         "googleMaps": {
-          // You API key
-          "apiKey": ""
+          "apiKey": "This value is you API key"
         }
       }
     }
